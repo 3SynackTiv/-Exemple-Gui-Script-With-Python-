@@ -40,3 +40,4 @@ Feel free to tweak the ASCII art, menu options, and colors to match your prefere
 📝 Credits:
 Created By Synacktiv (it's an example GUI) 👏
 Credits: https://github.com/3SynackTiv 🌟
+![image](https://github.com/user-attachments/assets/0d894a8a-bb9f-484e-a2f8-0b27413e9326)
